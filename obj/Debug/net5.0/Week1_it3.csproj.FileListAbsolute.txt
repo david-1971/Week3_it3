@@ -1,0 +1,16 @@
+C:\Users\пк\source\repos\Week1_it3\Week1_it3\bin\Debug\net5.0\Week1_it3.exe
+C:\Users\пк\source\repos\Week1_it3\Week1_it3\bin\Debug\net5.0\Week1_it3.deps.json
+C:\Users\пк\source\repos\Week1_it3\Week1_it3\bin\Debug\net5.0\Week1_it3.runtimeconfig.json
+C:\Users\пк\source\repos\Week1_it3\Week1_it3\bin\Debug\net5.0\Week1_it3.runtimeconfig.dev.json
+C:\Users\пк\source\repos\Week1_it3\Week1_it3\bin\Debug\net5.0\Week1_it3.dll
+C:\Users\пк\source\repos\Week1_it3\Week1_it3\bin\Debug\net5.0\Week1_it3.pdb
+C:\Users\пк\source\repos\Week1_it3\Week1_it3\obj\Debug\net5.0\Week1_it3.csproj.AssemblyReference.cache
+C:\Users\пк\source\repos\Week1_it3\Week1_it3\obj\Debug\net5.0\Week1_it3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пк\source\repos\Week1_it3\Week1_it3\obj\Debug\net5.0\Week1_it3.AssemblyInfoInputs.cache
+C:\Users\пк\source\repos\Week1_it3\Week1_it3\obj\Debug\net5.0\Week1_it3.AssemblyInfo.cs
+C:\Users\пк\source\repos\Week1_it3\Week1_it3\obj\Debug\net5.0\Week1_it3.csproj.CoreCompileInputs.cache
+C:\Users\пк\source\repos\Week1_it3\Week1_it3\obj\Debug\net5.0\Week1_it3.dll
+C:\Users\пк\source\repos\Week1_it3\Week1_it3\obj\Debug\net5.0\refint\Week1_it3.dll
+C:\Users\пк\source\repos\Week1_it3\Week1_it3\obj\Debug\net5.0\Week1_it3.pdb
+C:\Users\пк\source\repos\Week1_it3\Week1_it3\obj\Debug\net5.0\Week1_it3.genruntimeconfig.cache
+C:\Users\пк\source\repos\Week1_it3\Week1_it3\obj\Debug\net5.0\ref\Week1_it3.dll
